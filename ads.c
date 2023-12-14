@@ -1,1 +1,3 @@
-weqqweqweq
+<<<<<<< HEAD
+weqqweqwe======weqweqwe
+>
