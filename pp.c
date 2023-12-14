@@ -1,1 +1,1 @@
-Aidar
+Aid
